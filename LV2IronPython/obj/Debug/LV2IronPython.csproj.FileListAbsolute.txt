@@ -1,0 +1,17 @@
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\bin\Debug\LV2IronPython.exe.config
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\bin\Debug\LV2IronPython.exe
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\bin\Debug\LV2IronPython.pdb
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\bin\Debug\IronPython.dll
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\bin\Debug\Microsoft.Scripting.dll
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\bin\Debug\IronPython.xml
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\bin\Debug\Microsoft.Scripting.xml
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\obj\Debug\LV2IronPython.csprojResolveAssemblyReference.cache
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\obj\Debug\LV2IronPython.Form1.resources
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\obj\Debug\LV2IronPython.Properties.Resources.resources
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\obj\Debug\LV2IronPython.csproj.GenerateResource.Cache
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\obj\Debug\LV2IronPython.exe
+C:\Users\ACER7\Desktop\LV2IronPython\LV2IronPython\obj\Debug\LV2IronPython.pdb
